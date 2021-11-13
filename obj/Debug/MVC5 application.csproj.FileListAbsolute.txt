@@ -1,0 +1,79 @@
+E:\GIIT Solution\.net application\MVC5 application\bin\MVC5 application.dll.config
+E:\GIIT Solution\.net application\MVC5 application\bin\MVC5 application.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\MVC5 application.pdb
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csc.exe
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csc.exe.config
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csc.rsp
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csi.exe
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csi.exe.config
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\csi.rsp
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.AppContext.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Collections.Immutable.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Console.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Globalization.Calendars.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.IO.Compression.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.IO.FileSystem.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Net.Http.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Net.Sockets.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Reflection.Metadata.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.ValueTuple.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Xml.XPath.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\vbc.exe
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\vbc.exe.config
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\vbc.rsp
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\VBCSCompiler.exe
+E:\GIIT Solution\.net application\MVC5 application\bin\roslyn\VBCSCompiler.exe.config
+E:\GIIT Solution\.net application\MVC5 application\bin\Antlr3.Runtime.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\Microsoft.Web.Infrastructure.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\Newtonsoft.Json.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Helpers.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Mvc.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Optimization.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Razor.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.Deployment.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.Razor.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\WebGrease.dll
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Helpers.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Mvc.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Optimization.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.Razor.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.Deployment.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\System.Web.WebPages.Razor.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\Newtonsoft.Json.xml
+E:\GIIT Solution\.net application\MVC5 application\bin\Antlr3.Runtime.pdb
+E:\GIIT Solution\.net application\MVC5 application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GIIT Solution\.net application\MVC5 application\obj\Debug\MVC5 application.csproj.AssemblyReference.cache
+E:\GIIT Solution\.net application\MVC5 application\obj\Debug\MVC5 application.csproj.CoreCompileInputs.cache
+E:\GIIT Solution\.net application\MVC5 application\obj\Debug\MVC5 application.csproj.CopyComplete
+E:\GIIT Solution\.net application\MVC5 application\obj\Debug\MVC5 application.dll
+E:\GIIT Solution\.net application\MVC5 application\obj\Debug\MVC5 application.pdb
